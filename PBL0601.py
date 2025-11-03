@@ -137,7 +137,8 @@ def main():
     global step
     data_awal = [40, 35, 82, 80, 8, 13, 59]
     print('=====================================')
-    print('  PROGRAM SORTING PBL0601')
+    print('     PROGRAM SORT PBL0601')
+    print(' NAJWA KARIMAH NAFISAH. 251080200005')
     print('=====================================')
     print('1. Shell Sort')
     print('2. Merge Sort')
